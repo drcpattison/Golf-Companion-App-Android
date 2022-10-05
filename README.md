@@ -3,6 +3,8 @@ An Android app which contains a number of useful tools for golfers.
 
 It can be used with the DP Golf Stimpmeter to make it easier to calculate putting green speeds.
 
+<a href="https://play.google.com/store/apps/details?id=co.uk.dpeng.golfcompanion">Golf Companion App by DP Golf available on the Google Play Store</a>
+
 The DP Golf Stimpmeter is on sale and can be bought from Amazon or eBay here:
 
 <a href="https://www.ebay.co.uk/itm/324983551890">DP Golf Stimpmeter eBay Link with international shipping</a>
